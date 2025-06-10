@@ -1,0 +1,2 @@
+self.__SSG_MANIFEST = new Set(["\u002Fprojects\u002Fdynamic-particles", "\u002Fprojects\u002Ffbo-particles", "\u002Fprojects\u002Ffbo-particles-instanced", "\u002Fprojects\u002Finstanced-gpgpu", "\u002Fprojects\u002Fmotion-carousel", "\u002Fprojects\u002Fparticle-emitter", "\u002Fprojects\u002Fparticle-system", "\u002Fprojects\u002Fprojection-visualiser"]);
+self.__SSG_MANIFEST_CB && self.__SSG_MANIFEST_CB()
