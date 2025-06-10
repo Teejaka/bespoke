@@ -23,61 +23,53 @@
                 app: null,
                 gui: null,
                 elementsArray: [{
-                    name: "Thor",
-                    description: "Asgardian god of thunder, whose enchanted hammer Mjolnir enables him to fly and manipulate weather, among his other superhuman attributes. A founding member of the superhero team the Avengers, Thor has a host of supporting characters and enemies",
+                    name: "Tendai Mtawarira",
+                    description: "Zimbabwe-born South African prop known as 'The Beast', celebrated for his power in the scrum.",
                     imgSrc: "/_next/static/media/3.c268897e.png",
                     imgBlurSrc: "/_next/static/media/3.85c9df8c.png",
                     order: 0,
                     assetSizeRatio: 1,
                     backgroundColor: [211.25, 50.67, 47.45]
                 }, {
-                    name: "Hulk",
-                    description: "Gigantic, green, irradiated, mutated humanoid monster with incredible strength and an inability to control his rage. The Hulk is sometimes characterized as hyper-aggressive and brutal, other times as cunning, brilliant, and scheming.",
+                    name: "Os du Randt",
+                    description: "Legendary Springbok loosehead prop who won Rugby World Cups in 1995 and 2007.",
                     imgSrc: "/_next/static/media/6.26bef12f.png",
                     imgBlurSrc: "/_next/static/media/6.aaa20048.png",
                     order: 1,
                     assetSizeRatio: 1,
                     backgroundColor: [72, 20.36, 39.96]
                 }, {
-                    name: "Iron Man",
-                    description: "Armored Avenger driven by a heart that is part machine, but all hero",
+                    name: "Gurthro Steenkamp",
+                    description: "Powerful prop who earned over 50 caps for South Africa and starred for Toulouse.",
                     imgSrc: "/_next/static/media/2.d201c21f.png",
                     imgBlurSrc: "/_next/static/media/2.c67bc47c.png",
                     order: 2,
                     assetSizeRatio: 1,
                     backgroundColor: [3, 42, 40.06]
                 }, {
-                    name: "Black Panther",
-                    description: "Member of the royal family of the fictional African country of Wakanda. After the death of his father, T'Challa claimed the throne and the role of Black Panther. He was exposed to a mystical herb that enhanced his strength and agility to near-superhuman levels",
+                    name: "Steven Kitshoff",
+                    description: "Dynamic loosehead prop for the Stormers and Springboks, admired for his work rate.",
                     imgSrc: "/_next/static/media/4.5f287e55.png",
                     imgBlurSrc: "/_next/static/media/4.a7ebfd51.png",
                     order: 3,
                     assetSizeRatio: 1,
                     backgroundColor: [240, 4, 13.43]
                 }, {
-                    name: "Ghost Rider",
-                    description: "Ghost Rider is a human who can transform into a skeletal superhuman wreathed in ethereal flame and given supernatural powers.",
+                    name: "Ox Nché",
+                    description: "Explosive young prop for the Sharks and South Africa, noted for his strength in contact.",
                     imgSrc: "/_next/static/media/5.438eeb32.png",
                     imgBlurSrc: "/_next/static/media/5.321f48d1.png",
                     order: 4,
                     assetSizeRatio: 1,
                     backgroundColor: [33.51, 52.83, 47.06]
                 }, {
-                    name: "Captain America",
-                    description: "Recipient of the Super Soldier serum, World War II hero Steve Rogers fights for American ideals as one of the world's mightiest heroes and the leader of the Avengers.",
+                    name: "Ollie le Roux",
+                    description: "Veteran prop with over 50 caps for the Springboks, respected for his scrummaging ability.",
                     imgSrc: "/_next/static/media/1.1122a8f6.png",
                     imgBlurSrc: "/_next/static/media/1.20293bda.png",
                     order: 5,
                     assetSizeRatio: 1,
                     backgroundColor: [221.54, 48.3, 41.96]
-                }, {
-                    name: "Spider Man",
-                    description: 'Superhuman strength, agility, endurance, ability to stick to and climb walls and other surfaces, uses self-designed web-shooters allowing him to fire and swing from sticky webs, special "Spider-Sense" warns of incoming danger, genius intellect specializing in chemistry and invention.',
-                    imgSrc: "/_next/static/media/7.e8fa660b.png",
-                    imgBlurSrc: "/_next/static/media/7.2cdb6f16.png",
-                    order: 6,
-                    assetSizeRatio: 1,
-                    backgroundColor: [350.2, 40.16, 47.84]
                 }],
                 planeGeometry: new n._12(1, 1, 1, 1),
                 scrollValuesGrid: {
@@ -1057,7 +1049,7 @@
                                 children: "Choose Character"
                             }), (0, r.jsx)("span", {}), (0, r.jsx)("p", {
                                 className: V().smallTitle,
-                                children: "Avengers"
+                                children: "Rugby Players"
                             })]
                         }), (0, r.jsxs)("div", {
                             className: V().contentWrapper,
@@ -1087,7 +1079,7 @@
                                         "data-motion-carousel": "heroTag",
                                         "data-animation": "paragraph",
                                         className: V().smallTitle,
-                                        children: "Avengers"
+                                        children: "Rugby Players"
                                     }), (0, r.jsx)("p", {
                                         className: V().heroTitle,
                                         "data-motion-carousel": "heroTitle",
